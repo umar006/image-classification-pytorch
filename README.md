@@ -1,4 +1,6 @@
 # image-classification-pytorch
-Classify two dataset, flowers and vehicles. Each dataset has 10 classes and each class has approx 1000 images
+Classify two dataset, flowers and vehicles:
+- Flowers has 10 classes (lily, tulip, rose, sunflowers, buttercup, dandelion, etc)
+- Vehicles has 10 classes (car, ship, airplane, helicopter, motorcycle, etc)
 
-Classification use pre-trained model (resnet18), we achieved 97% accuracy
+Classification use pytorch and use pre trained model (resnet18), achieved 97% accuracy
